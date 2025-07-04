@@ -36,6 +36,9 @@
 *.tsplib linguist-detectable=true
 *.tsplib linguist-documentation=false
 *.tsplib linguist-language=TSPLIB-Data
+*.tpslib linguist-detectable=true
+*.tpslib linguist-documentation=false
+*.tpslib linguist-language=TSPLIB-Data
 # R source file
 *.r linguist-detectable=true
 *.r linguist-documentation=false
@@ -187,7 +190,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 6 (2025, Thursday, July 3rd at 10:36 pm PST)
-# Line count (including blank lines and compiler line): 194
+# File version: 7 (2025, Thursday, July 3rd at 10:38 pm PST)
+# Line count (including blank lines and compiler line): 197
 
 # End of script
